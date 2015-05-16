@@ -165,7 +165,6 @@ Make a histogram of the total number of steps taken each day and
 calculate and report the mean and median total number of steps taken per day
 then calculate mean and median of the new data set. The mean and median are
 slight different from those of the original data set.
-from the first histogram.
 
 ```r
 gr1 = group_by(activity1, date)
