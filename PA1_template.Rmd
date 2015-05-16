@@ -147,5 +147,5 @@ Differences of weekdays and weekends activity patterns:
 that of weekends is less than 200. The maximums are in the interval 800-900.
 
 2. Average number of steps per interval of weekends from interval 1000 to 2000
-is generally larger than that of weekdays.
+is slightly larger than that of weekdays.
 
